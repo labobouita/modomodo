@@ -1,4 +1,7 @@
 {
   "image": "https://raw.githubusercontent.com/labobouita/modomodo/refs/heads/main/image1.png",
-  "url": ""
+  "showImage": true,
+
+  "url": "",
+  "enableLink": false
 }
